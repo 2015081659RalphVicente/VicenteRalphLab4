@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VicenteRalphLab4</string>
+    <string name="pic">pic</string>
+    <string name="location">Location: Quezon City</string>
+    <string name="distance">Distance from UST: 1.1km</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="title">Fisher Mall</string>
+</resources>
